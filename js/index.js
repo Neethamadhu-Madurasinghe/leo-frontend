@@ -526,7 +526,13 @@ const projects = [
 		chair: 'Leo Binuri Perera',
 		description: `Together as Humans 7.0, led by the Leo Club of the University of Colombo, is a powerful initiative promoting education and literacy. In its two-phase structure, “Future in Focus” supported O/L students at Kottawa Ananda Maha Vidyalaya with an AAT-backed commerce workshop and introduced undergraduates to AI tools in collaboration with the Voice of Ananda Club. The second phase, “TechED Empower,” donated a smart classroom to H/Tangalle Primary School, transforming traditional learning. Widely praised by stakeholders, the project stands as a testament to the club’s commitment to empowering students and shaping brighter futures through innovation and access.`
 	},
-
+	{
+		id: 66,
+		title: 'Ashirwada Pooja 25',
+		category: 'PROJECT FOR PEACE, RELIGIOUS AND CULTURAL ACTIVITIES',
+		chair: 'LEO VINUKI LIHINIKADUWAGE',
+		description: `Leo Club of University of Colombo organized Ashirwada Pooja'25 on the 5th and 9th of July 2025, as a heartfelt initiative to foster interfaith harmony and mutual respect among diverse religious communities. Under the leadership of Leo Vinuki Lihinikaduwage, the project brought members together to visit four distinct religious sites in Bambalapitiya, Wellewatta, and Kandy. emphasizing unity in diversity and strengthening the spirit of peaceful coexistence. The event was made successful through the active collaboration of respected religious leaders and the warm hospitality extended at each place of worship. The dedication and enthusiasm of the Leo members in promoting dialogue and understanding among different faiths were evident throughout both days of the event.`
+	},
 ];
 
 const testimonials = [
